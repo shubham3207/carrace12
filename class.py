@@ -37,7 +37,7 @@ def sum():
 c=sum()
 print(c)
 
-###functiolns having parameters and return types
+###functions having parameters and return types
 def sum(x,y):
     return x+y
 
